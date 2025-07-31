@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi, I'm Vadym</h1>
 
 <p align="center">
-  I'm a web developer passionate about building clean, fast, and user-friendly digital products.  
-  I work on both the frontend and backend sides of development.
+ I'm a developer passionate about building diverse digital products — from bots and software tools to full-featured websites. I work across both frontend and backend development to deliver clean, efficient, and user-friendly solutions.
 </p>
 
 ---
